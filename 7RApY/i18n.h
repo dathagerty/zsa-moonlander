@@ -1,0 +1,2 @@
+#define KC_MAC_UNDO LGUI(KC_Z)
+#define KC_PC_UNDO LCTL(KC_Z)
